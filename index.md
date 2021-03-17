@@ -5,3 +5,5 @@ L'idea generale per ora e' di avere una raccolta di gpx e, in qualche modo, prod
 Tutto quello che e' da fare si trova nelle sezioni issues e milestone della repo
 
 Qui il link al [template dei trails](trail_template.md)
+
+Qui il link al [form di input](input.md)
