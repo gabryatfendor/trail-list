@@ -14,6 +14,8 @@ qui la difficolta' usando la scala bike park:
 * ![nero](/media/difficulty/black_diamond.svg "diamante nero") richiesta guida esperta con drops e salti basilari, il persorso presenta ostacoli naturali come rocce e radici esposte che richiedono la giusta tecnica per essere superate.
 * ![doppio_nero](/media/difficulty/double_black_diamond.svg "doppio diamante nero") solo per esperti, presenta drops, salti e ostacoli nei quali e' richiesta tecnica ed elevata esperienza.
 
+al seguente [link](https://www.imba.com/sites/default/files/content/resources/2018-10/IMBATrailDifficultRatingSystem.jpg) si trova un tentativo di standardizzazione della canadese IMBA.
+
 ## descrizione
 qui la descrizione. Spiegare eventuali punti di interesse del sentiero organizzando, se disponibile, POIs puramente panoramici e POIs del trail.
 E' possibile inoltre specificare la visibilita' del punto di accesso e tutte le questioni correlate.
