@@ -1,5 +1,11 @@
 # nome
 
+## posizione geografica
+comune nel quale si trova il trail
+
+## coordinate
+inserire coordinate (questo viene estratto dal gpx)
+
 ## difficolta'
 qui la difficolta' usando la scala bike park:
 * [verde] nessuna dote discesistica richiesta, pendenza lieve, nessuna difficolta' tecnica.
