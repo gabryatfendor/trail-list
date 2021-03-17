@@ -1,6 +1,6 @@
 # Aggiungi un trail
 
-<form action="/add-trail.py">
+<form action="scripts/create-trail.py">
   <label for="lname">Nome:</label><br>
   <input type="text" id="name" name="name"><br>
   <label for="lcity">Comune:</label><br>
